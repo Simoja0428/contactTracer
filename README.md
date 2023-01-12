@@ -4,12 +4,15 @@ Contact Tracer, back-end API, created during the process of earning my Bachelor 
 
 ## Languages:
 
--Python   
+-Python
+
 -SQLlite
 
 ## Technologies:
 
 -Flask 
--Visual Studio Code 
+
+-Visual Studio Code
+
 -DB Browser for SQLlite
 
